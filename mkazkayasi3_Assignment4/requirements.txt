@@ -1,0 +1,4 @@
+gym==0.17.1
+numpy==1.18.1
+mdptoolbox_hiive==4.0.3.1
+pymdptoolbox==4.0b3
