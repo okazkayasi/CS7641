@@ -1,4 +1,7 @@
-gym==0.17.1
+dill==0.3.1.1
 numpy==1.18.1
 mdptoolbox_hiive==4.0.3.1
-pymdptoolbox==4.0b3
+pandas==0.25.3
+gym==0.17.1
+seaborn==0.9.0
+matplotlib==3.1.1
