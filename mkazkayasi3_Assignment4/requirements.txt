@@ -1,5 +1,5 @@
 dill==0.3.1.1
-numpy==1.18.1
+numpy==1.22.0
 mdptoolbox_hiive==4.0.3.1
 pandas==0.25.3
 gym==0.17.1
